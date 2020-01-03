@@ -1,0 +1,13 @@
+body {
+    padding: 24px 24px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 900px;
+    width: 100%;
+}
+
+.card {
+    margin-top: 24px;
+}
